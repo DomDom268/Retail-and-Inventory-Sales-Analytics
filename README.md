@@ -1,6 +1,6 @@
 # Northwind Retail & Inventory Analytics
 
-This project uses the **Northwind SQL Server sample database** to explore retail sales and inventory performance. I wrote SQL queries to analyze key business metrics, created reusable database views for common KPIs, and prepared the results for visualization in **Power BI**.  
+This project uses the **Northwind SQL Server sample database** to explore retail sales and inventory performance. I wrote SQL queries to analyze key business metrics, created reusable database views for common KPIs, and prepared the results for visualization in **Power BI**. View dashboard here:![Dashboard Image](Screenshot 2025-09-24 233351.png)
 
 ---
 
